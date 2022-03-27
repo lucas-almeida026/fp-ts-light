@@ -1,0 +1,24 @@
+{
+  "name": "fp-ts-light",
+  "version": "1.0.0",
+  "description": "Simple function programming assets for typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-almeida026/fp-ts-light.git"
+  },
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",  
+  "bugs": {
+    "url": "https://github.com/lucas-almeida026/fp-ts-light/issues"
+  },
+  "homepage": "https://github.com/lucas-almeida026/fp-ts-light#readme"
+}

@@ -1,0 +1,1 @@
+export const createPromise = <T>(data: T) => new Promise<T>((res) => res(data))
